@@ -67,6 +67,21 @@ function guncelleDurum(yeni) {
 
 function yaziOlcegiUygula() {
   document.documentElement.style.setProperty('--okuma-olcek', durum.ayarlar?.yaziBoyutu || 1);
+  temaUygula();
+}
+
+const TEMA_RENGI = { acik: '#fcfcfb', koyu: '#1a1a19' };
+
+function temaUygula() {
+  const tema = durum.ayarlar?.tema;
+  const kok = document.documentElement;
+  if (tema === 'acik' || tema === 'koyu') kok.dataset.tema = tema;
+  else delete kok.dataset.tema;
+  // Durum çubuğu rengi: sistem seçiliyse media sorgulu varsayılanlar geçerli.
+  document.querySelectorAll('meta[name="theme-color"]').forEach((m) => {
+    if (!m.dataset.ilk) m.dataset.ilk = m.content;
+    m.content = TEMA_RENGI[tema] || m.dataset.ilk;
+  });
 }
 
 function dugmeBekle(dugme) {
@@ -791,7 +806,27 @@ function ayarlar() {
   }, 'İlerlemeyi sıfırla');
   sifirKutu.append(sifirDugme);
 
+  const temalar = [
+    ['sistem', 'Sistem'],
+    ['acik', 'Açık'],
+    ['koyu', 'Koyu'],
+  ];
+  const seciliTema = durum.ayarlar?.tema || 'sistem';
+
   goster(
+    el('section', { class: 'kart' },
+      el('h2', {}, 'Arka plan'),
+      el('div', { class: 'secim' }, temalar.map(([v, ad]) =>
+        el('button', {
+          class: 'dugme',
+          'aria-pressed': String(v === seciliTema),
+          onclick: () => {
+            guncelleDurum({ ...durum, ayarlar: { ...durum.ayarlar, tema: v } });
+            temaUygula();
+            ayarlar();
+          },
+        }, ad))),
+      el('p', { class: 'not', style: 'margin-top:10px' }, 'Sistem seçiliyse telefonun ya da bilgisayarın açık/koyu ayarını izler.')),
     el('section', { class: 'kart' },
       el('h2', {}, 'Okuma yazısı boyutu'),
       el('div', { class: 'secim' }, boyutlar.map(([v, ad]) =>

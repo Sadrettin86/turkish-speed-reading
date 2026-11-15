@@ -1,5 +1,5 @@
 // Çevrimdışı çalışma: önce önbellek, arkada güncelle.
-const SURUM = 'tsr-v1';
+const SURUM = 'tsr-v2';
 const DOSYALAR = [
   './',
   'index.html',

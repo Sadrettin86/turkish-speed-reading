@@ -13,6 +13,12 @@
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <script>
+    try {
+      const t = JSON.parse(localStorage.getItem('tsr-durum-v1') || '{}').ayarlar?.tema;
+      if (t === 'acik' || t === 'koyu') document.documentElement.dataset.tema = t;
+    } catch {}
+  </script>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
