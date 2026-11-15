@@ -1,0 +1,101 @@
+{
+  "aciklama": "Ölçüm metinleri: kendi hızında, süre sınırı olmadan okunur. Zorlukları birbirine yakın tutulur. Doğru cevap her zaman c dizisinin ilk elemanıdır.",
+  "paragraflar": [
+    {
+      "id": "o-01",
+      "baslik": "Dut bayramı",
+      "metin": "Karaçam köyünde her yıl haziranın son pazarı dut bayramı yapılır. Bayram, köyün ortasındaki yaşlı dut ağacının altında başlar: sabah erkenden kadınlar ağacın altına büyük bezler serer, gençler de dallara çıkıp ağacı sallar. Yere düşen dutlar sepetlere toplanır ve köyün fırınına taşınır. Fırıncı Rıza usta dutların bir kısmından pekmez kaynatır, kalanını da kurutmak için damlara serer. Öğle vakti köy meydanında uzun masalar kurulur ve herkes evinden bir yemek getirir, ama tatlı her zaman dut pekmezli helvadır. Akşamüstü çocuklar için çuval yarışı düzenlenir ve yarışı kazanan çocuğa bir kavanoz pekmez verilir. Bu yıl bayrama komşu köylerden de çok kişi geldi. Muhtar, gelecek yıl için meydana gölgelik yapılacağını duyurdu. Köylüler bu habere çok sevindi, çünkü bayram günü güneş çoğu zaman çok yakıcı oluyor.",
+      "sorular": [
+        { "s": "Dut bayramı ne zaman yapılır?", "c": ["Haziranın son pazarı", "Temmuzun ilk pazarı", "Haziranın ilk cumartesisi", "Mayısın son pazarı"] },
+        { "s": "Dutları ağaçtan kim düşürür?", "c": ["Dallara çıkan gençler", "Bez seren kadınlar", "Fırıncı Rıza usta", "Köyün çocukları"] },
+        { "s": "Toplanan dutların bir kısmından ne yapılır?", "c": ["Pekmez", "Reçel", "Şerbet", "Lokum"] },
+        { "s": "Çuval yarışını kazanan çocuğa ne verilir?", "c": ["Bir kavanoz pekmez", "Bir sepet dut", "Bir tabak helva", "Bir madalya"] },
+        { "s": "Muhtar gelecek yıl için ne duyurdu?", "c": ["Meydana gölgelik yapılacağını", "Yeni dut ağaçları dikileceğini", "Bayramın iki gün süreceğini", "Komşu köylerin de davet edileceğini"] }
+      ]
+    },
+    {
+      "id": "o-02",
+      "baslik": "Yeni iskele",
+      "metin": "Çınarlı kasabasının eski ahşap iskelesi geçen kış fırtınada ağır hasar gördü. Belediye, onarım yerine yeni bir iskele yapmaya karar verdi. Yeni iskele beton ayaklar üzerine kuruldu ve eskisinden iki kat geniş oldu. Çalışmalar dört ay sürdü. Bu sürede vapurlar kasabaya uğramadı, yolcular da komşu kasabadaki iskeleye minibüsle taşındı. Minibüs yolculuğu yarım saat sürdüğü için en çok okula giden öğrenciler zorlandı. Yeni iskelenin açılışı nisan ayının ilk haftasında yapıldı. Açılışta kasabanın en yaşlı balıkçısı Hüsnü kaptan kurdeleyi kesti. Belediye başkanı, iskelenin bir köşesinin balıkçılara ayrıldığını söyledi. Ayrıca iskelenin ucuna, yolcuların vapur beklerken oturabileceği camlı bir bekleme salonu yapıldı. Kasabalılar en çok bu salonu beğendi, çünkü eski iskelede yağmurda beklemek çok zordu.",
+      "sorular": [
+        { "s": "Eski iskeleye ne oldu?", "c": ["Fırtınada ağır hasar gördü", "Bir gemi çarptı", "Çürüyüp çöktü", "Yangında yandı"] },
+        { "s": "Çalışmalar sürerken yolcular nasıl taşındı?", "c": ["Minibüsle komşu kasabadaki iskeleye", "Küçük teknelerle", "Belediye otobüsüyle şehre", "Geçici bir iskeleden vapurla"] },
+        { "s": "Minibüs yolculuğundan en çok kim zorlandı?", "c": ["Okula giden öğrenciler", "Balıkçılar", "Yaşlılar", "Kasabaya gelen turistler"] },
+        { "s": "Açılışta kurdeleyi kim kesti?", "c": ["En yaşlı balıkçı Hüsnü kaptan", "Belediye başkanı", "Kasabanın muhtarı", "Vapurun kaptanı"] },
+        { "s": "Kasabalılar yeni iskelede en çok neyi beğendi?", "c": ["Camlı bekleme salonunu", "Balıkçılara ayrılan köşeyi", "Beton ayakları", "İskelenin genişliğini"] }
+      ]
+    },
+    {
+      "id": "o-03",
+      "baslik": "Bakırcı dükkânı",
+      "metin": "Gülbahçe mahallesindeki eski bakırcı dükkânı üç kuşaktır aynı ailenin elinde. Dükkânı bugün Necla hanım işletiyor. Babası ondan önce burada kırk yıl çalışmış, dedesi de dükkânı ilk açan kişiymiş. Necla hanım işi babasından değil, babasının yanında çalışan yaşlı bir kalaycıdan öğrendiğini söylüyor. Dükkânda en çok satılan şey cezve. Necla hanım her cezveyi elle dövüyor ve bir cezveyi bitirmesi yaklaşık iki saat sürüyor. Son yıllarda dükkâna en çok yabancı turistler geliyor. Turistler genellikle küçük bir hatıra almak istediği için Necla hanım avuç içi büyüklüğünde süs tabakları da yapmaya başlamış. Kış aylarında iş azalınca eski bakır kapları kalaylamaya ağırlık veriyor. Necla hanım, bu zanaatın sürmesi için her cumartesi mahalledeki gençlere ücretsiz ders veriyor.",
+      "sorular": [
+        { "s": "Dükkânı ilk kim açmış?", "c": ["Necla hanımın dedesi", "Necla hanımın babası", "Yaşlı bir kalaycı", "Necla hanım"] },
+        { "s": "Necla hanım işi kimden öğrenmiş?", "c": ["Babasının yanında çalışan kalaycıdan", "Babasından", "Dedesinden", "Bir kurstan"] },
+        { "s": "Bir cezveyi bitirmek ne kadar sürüyor?", "c": ["Yaklaşık iki saat", "Yarım gün", "Yaklaşık bir saat", "Üç gün"] },
+        { "s": "Necla hanım turistler için ne yapmaya başlamış?", "c": ["Küçük süs tabakları", "Küçük cezveler", "Bakır anahtarlıklar", "İsim yazılı tepsiler"] },
+        { "s": "Necla hanım gençlere ne zaman ders veriyor?", "c": ["Her cumartesi", "Her pazar", "Kış aylarında", "Okullar tatilken"] }
+      ]
+    },
+    {
+      "id": "o-04",
+      "baslik": "Gece açık kütüphane",
+      "metin": "Kuzeykent şehir kütüphanesi bu yıl sınav döneminde yeni bir uygulama denedi. Kütüphane, ocak ayının son iki haftası boyunca gece yarısına kadar açık kaldı. Önceki yıllarda kütüphane akşam sekizde kapanıyordu. Uygulama, üniversite öğrencilerinin isteğiyle başladı. Öğrenciler belediyeye bir imza listesi vermişti. Evlerinde sessiz bir çalışma yeri bulamadıklarını söylüyorlardı. Gece saatlerinde kütüphanede iki görevli ve bir güvenlik görevlisi çalıştı. Kütüphanenin alt katındaki kafe de bu süre boyunca açık tutuldu, ama yalnızca çay ve su satıldı. İlk hafta geceleri ortalama yüz kişi geldi. İkinci hafta bu sayı neredeyse iki katına çıktı. Belediye denemenin başarılı olduğunu açıkladı. Uygulama haziran ayındaki sınav döneminde de tekrarlanacak. Öğrenciler ise hafta sonları da geç saate kadar açık kalınmasını istiyor.",
+      "sorular": [
+        { "s": "Kütüphane sınav döneminde saat kaça kadar açık kaldı?", "c": ["Gece yarısına kadar", "Akşam sekize kadar", "Gece ona kadar", "Sabaha kadar"] },
+        { "s": "Uygulama nasıl başladı?", "c": ["Öğrencilerin verdiği imza listesiyle", "Belediyenin seçim sözüyle", "Kütüphanecilerin önerisiyle", "Velilerin isteğiyle"] },
+        { "s": "Gece saatlerinde kafede ne satıldı?", "c": ["Yalnızca çay ve su", "Çay, su ve sandviç", "Yalnızca kahve", "Hiçbir şey, kafe kapalıydı"] },
+        { "s": "İkinci hafta gelenlerin sayısı nasıl değişti?", "c": ["Neredeyse iki katına çıktı", "Yarıya düştü", "Aynı kaldı", "Biraz arttı"] },
+        { "s": "Öğrenciler şimdi ne istiyor?", "c": ["Hafta sonları da geç saate kadar açık kalınmasını", "Kafede yemek satılmasını", "Kütüphanenin büyütülmesini", "Daha çok görevli çalışmasını"] }
+      ]
+    },
+    {
+      "id": "o-05",
+      "baslik": "Göl kıyısında kuş sayımı",
+      "metin": "Sarıgöl kıyısında her yıl mart ayında kuş sayımı yapılır. Sayıma bu yıl kırk gönüllü katıldı. Gönüllüler sabah güneş doğmadan göle geldi, çünkü kuşlar en çok sabah erken saatlerde beslenir. Göl dört bölüme ayrıldı ve her bölüme on kişilik bir ekip gönderildi; ekipler dürbünlerle kuşları saydı ve sonuçları bir deftere yazdı. Bu yılın en dikkat çeken sonucu, flamingo sayısının geçen yıla göre azalması oldu. Uzmanlar bunun nedenini gölün suyunun çekilmesine bağlıyor; göle dökülen derenin suyu bu yıl tarlaları sulamak için daha çok kullanıldı. Buna karşılık gölde yaşayan ördeklerin sayısı arttı. Sayımın sonunda gönüllülere birer belge verildi. Ekibin başındaki kuş bilimci Canan hanım, gelecek yıl sayımın iki kez, mart ve eylül aylarında yapılmasını önerdi.",
+      "sorular": [
+        { "s": "Gönüllüler göle neden erkenden geldi?", "c": ["Kuşlar sabah erken beslendiği için", "Öğlen çok sıcak olduğu için", "Göl öğlen ziyarete kapandığı için", "Otobüs erken kalktığı için"] },
+        { "s": "Her ekipte kaç kişi vardı?", "c": ["On", "Dört", "Kırk", "Yirmi"] },
+        { "s": "Bu yıl hangi kuşun sayısı azaldı?", "c": ["Flamingo", "Ördek", "Balıkçıl", "Martı"] },
+        { "s": "Uzmanlara göre bunun nedeni ne?", "c": ["Gölün suyunun çekilmesi", "Avcılık", "Kirlilik", "Soğuk geçen kış"] },
+        { "s": "Canan hanım ne önerdi?", "c": ["Sayımın yılda iki kez yapılmasını", "Daha çok gönüllü alınmasını", "Derenin suyunun kesilmesini", "Gölün çevresinin kapatılmasını"] }
+      ]
+    },
+    {
+      "id": "o-06",
+      "baslik": "Taşınma günü",
+      "metin": "Yıldız ailesi geçen cumartesi yeni evlerine taşındı. Taşınma için bir şirketle anlaşmışlardı, ama kamyon sabah dokuz yerine öğlen geldi. Burak bey ile eşi Sevim hanım bu arada boş durmadı. Kırılabilecek eşyaları kendi arabalarıyla önceden taşımaya karar verdiler. Tabakları, bardakları ve aileden kalan eski saati arabanın arka koltuğuna yerleştirdiler. Kamyon geldiğinde işçiler büyük eşyaları üç saatte yükledi. Yeni ev dördüncü kattaydı ve asansör dardı, bu yüzden kanepe pencereden vinçle alındı. Akşama doğru en küçük oğulları Can, kendi odasını yerleştirmek için herkesten önce davrandı. Yorgun aile o akşam yemek yapamadı ve yan sokaktaki lokantadan pide söyledi. Sevim hanım ertesi gün kapı kapı dolaşıp yeni komşularına kendi yaptığı kurabiyelerden götürdü.",
+      "sorular": [
+        { "s": "Taşınma kamyonu ne zaman geldi?", "c": ["Öğlen", "Sabah dokuzda", "Akşamüstü", "Sabah sekizde"] },
+        { "s": "Kırılabilecek eşyalar nasıl taşındı?", "c": ["Ailenin kendi arabasıyla", "Kamyonla, ayrı kutularda", "Komşunun arabasıyla", "Taksiyle"] },
+        { "s": "Kanepe yeni eve nasıl alındı?", "c": ["Pencereden vinçle", "Asansörle", "Merdivenden", "Parçalara ayrılarak"] },
+        { "s": "Aile o akşam ne yedi?", "c": ["Lokantadan söylenen pide", "Evde yapılan makarna", "Komşunun getirdiği yemek", "Kurabiye"] },
+        { "s": "Sevim hanım ertesi gün ne yaptı?", "c": ["Komşulara kurabiye götürdü", "Bütün kutuları açtı", "Perdeleri taktı", "Eski evini temizledi"] }
+      ]
+    },
+    {
+      "id": "o-07",
+      "baslik": "Su kampanyası",
+      "metin": "Ilıcaköy belediyesi geçen yaz su kesintilerini azaltmak için bir kampanya başlattı. Kampanyanın ilk adımı, eski su borularındaki kaçakları bulmaktı. Ekipler gece saatlerinde, şehir sessizken boruları dinleyerek kaçak aradı. Üç ayda iki yüzden fazla kaçak bulundu ve onarıldı. İkinci adım olarak evlere, musluklara takılan küçük su başlıkları ücretsiz dağıtıldı. Bu başlıklar suya hava karıştırarak akan su miktarını azaltıyor. Okullarda da öğrenciler için bir yarışma düzenlendi. En az su harcayan sınıfa bir gezi ödülü verildi. Belediyenin açıkladığı rakamlara göre şehirde harcanan su, bir önceki yaza göre beşte bir oranında azaldı. Ancak bazı mahallelerde başlıkların takılmadığı ve kutularında beklediği görüldü. Belediye bu yıl, başlıkları takmak için ev ev dolaşacak bir ekip kurmayı planlıyor.",
+      "sorular": [
+        { "s": "Ekipler kaçakları ne zaman aradı?", "c": ["Gece saatlerinde", "Sabah erkenden", "Hafta sonları", "Öğle saatlerinde"] },
+        { "s": "Üç ayda kaç kaçak bulundu?", "c": ["İki yüzden fazla", "Yüze yakın", "Elli kadar", "Bine yakın"] },
+        { "s": "Musluk başlıkları nasıl dağıtıldı?", "c": ["Ücretsiz", "Yarı fiyatına", "Okullarda satılarak", "Faturaya eklenerek"] },
+        { "s": "Okul yarışmasını kazanan sınıfa ne verildi?", "c": ["Gezi ödülü", "Kitap seti", "Bir kupa", "Bir belge"] },
+        { "s": "Belediye bu yıl ne yapmayı planlıyor?", "c": ["Başlıkları takacak bir ekip kurmayı", "Yeni bir baraj yapmayı", "Su fiyatlarını artırmayı", "Yarışmayı bütün şehre yaymayı"] }
+      ]
+    },
+    {
+      "id": "o-08",
+      "baslik": "Bisiklet atölyesi",
+      "metin": "Emekli öğretmen Kemal bey, iki yıl önce evinin garajını küçük bir bisiklet atölyesine çevirdi. Atölyede mahalledeki çocukların bozuk bisikletlerini ücretsiz onarıyor. Parçaları çoğunlukla eski bisikletlerden söküyor. Mahalleli, kullanmadığı bisikletleri atmak yerine artık Kemal beyin kapısına bırakıyor. Kemal bey bisikletleri onarırken çocukları da yanına alıyor. Her birine zincir takmayı, lastik değiştirmeyi öğretiyor. Geçen ay atölyede yüzüncü bisiklet onarıldı. Bunu kutlamak için mahallenin çocukları sokakta bir bisiklet turu düzenledi. Turun sonunda Kemal beye bir hediye verildi. Bu, çocukların kendi elleriyle yaptığı ahşap bir tabelaydı. Tabelada atölyenin adı yazıyordu: Pedal Durağı. Kemal bey, atölye büyüdüğü için yanına bir yardımcı arıyor. Şimdilik en büyük yardımcısı, ilk günden beri atölyeye gelen on dört yaşındaki komşusu Deniz.",
+      "sorular": [
+        { "s": "Atölye nerede kuruldu?", "c": ["Kemal beyin garajında", "Mahallenin okulunda", "Boş bir dükkânda", "Parktaki bir kulübede"] },
+        { "s": "Kemal bey parçaları çoğunlukla nereden buluyor?", "c": ["Eski bisikletlerden söküyor", "Bir dükkândan alıyor", "İnternetten sipariş ediyor", "Belediyeden alıyor"] },
+        { "s": "Yüzüncü bisiklet nasıl kutlandı?", "c": ["Çocuklar bir bisiklet turu düzenledi", "Atölyede bir parti verildi", "Gazetede haber çıktı", "Kemal beye bir madalya verildi"] },
+        { "s": "Kemal beye hediye edilen tabelada ne yazıyordu?", "c": ["Pedal Durağı", "Kemal Beyin Atölyesi", "Bisiklet Evi", "Zincir ve Lastik"] },
+        { "s": "Kemal beyin şimdilik en büyük yardımcısı kim?", "c": ["Komşusu Deniz", "Kendi torunu", "Emekli bir arkadaşı", "Mahallenin muhtarı"] }
+      ]
+    }
+  ]
+}

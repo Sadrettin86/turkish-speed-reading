@@ -1,0 +1,17 @@
+{
+  "aciklama": "Ön test: 12 cümle, kendi hızında okunur. Karakter başına başlangıç süresi buradan hesaplanır (Breznitz ve ark., 2013).",
+  "cumleler": [
+    {"id": "ot-01", "t": "Leman hanım her sabah balkonda kuşlara ekmek kırıntısı bırakır.", "s": "Leman hanım kuşlara ne bırakır?", "c": ["Ekmek kırıntısı", "Buğday", "Su", "Pirinç"]},
+    {"id": "ot-02", "t": "Toplantı yarın değil, gelecek salı öğleden sonra yapılacak.", "s": "Toplantı ne zaman yapılacak?", "c": ["Gelecek salı öğleden sonra", "Yarın öğleden sonra", "Gelecek salı sabahı", "Bu salı öğleden sonra"]},
+    {"id": "ot-03", "t": "Kuzenim başka şehre taşındığı için eski bisikletini bana bıraktı.", "s": "Kuzen bisikletini neden bıraktı?", "c": ["Başka şehre taşındığı için", "Yenisini aldığı için", "Bisiklet küçük geldiği için", "Bisiklet bozulduğu için"]},
+    {"id": "ot-04", "t": "Akşam yemeğinde balık vardı ama Nedim sadece salata yedi.", "s": "Nedim akşam yemeğinde ne yedi?", "c": ["Sadece salata", "Balık ve salata", "Sadece balık", "Hiçbir şey yemedi"]},
+    {"id": "ot-05", "t": "Otobüs durağındaki tabelada son seferin on birde olduğu yazıyor.", "s": "Son sefer saat kaçta?", "c": ["On birde", "Onda", "On ikide", "Dokuzda"]},
+    {"id": "ot-06", "t": "Pazar günü yağmur yağarsa piknik yerine sinemaya gideceğiz.", "s": "Yağmur yağarsa ne yapılacak?", "c": ["Sinemaya gidilecek", "Piknik ertelenecek", "Evde kalınacak", "Müzeye gidilecek"]},
+    {"id": "ot-07", "t": "Yaşlı balıkçı ağlarını kendi eliyle onarır, kimseye vermez.", "s": "Balıkçının ağlarını kim onarır?", "c": ["Kendisi", "Oğlu", "Bir usta", "Komşu balıkçılar"]},
+    {"id": "ot-08", "t": "Sınıfın penceresi kırılınca o günkü dersi kütüphanede işledik.", "s": "Ders nerede işlendi?", "c": ["Kütüphanede", "Bahçede", "Başka bir sınıfta", "Spor salonunda"]},
+    {"id": "ot-09", "t": "Ayten dün markete gidemedi, haftalık alışverişi kızı yaptı.", "s": "Alışverişi kim yaptı?", "c": ["Ayten'in kızı", "Ayten", "Ayten'in eşi", "Bir komşusu"]},
+    {"id": "ot-10", "t": "Bahçedeki eski ceviz ağacı geçen hafta fırtınada devrildi.", "s": "Ceviz ağacına ne oldu?", "c": ["Fırtınada devrildi", "Kesildi", "Kurudu", "Budandı"]},
+    {"id": "ot-11", "t": "Rıfat bey eski arabasını satmayıp üniversiteye giden oğluna hediye etti.", "s": "Rıfat bey eski arabasını ne yaptı?", "c": ["Oğluna hediye etti", "Sattı", "Hurdaya verdi", "Garajda sakladı"]},
+    {"id": "ot-12", "t": "Kar yüzünden okullar tatil olunca çocuklar bütün gün kızak kaydı.", "s": "Çocuklar tatilde ne yaptı?", "c": ["Kızak kaydı", "Kardan adam yaptı", "Evde oyun oynadı", "Kartopu oynadı"]}
+  ]
+}
