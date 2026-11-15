@@ -22,7 +22,7 @@ export function bosDurum() {
     onTest: null,
     kullanilanCumle: [],
     kullanilanParagraf: [],
-    ayarlar: { yaziBoyutu: 1 },
+    ayarlar: { yaziBoyutu: 1, tema: 'sistem' },
   };
 }
 
